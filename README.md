@@ -58,7 +58,9 @@ The dashboard is designed with an executive-first approach, combining KPIs, tren
 
 **📌 Author**
 Adi (Aditya Naik)
+
 Aspiring Business Analyst / Data Analyst
+
 📍 India
 
 **📣 Feedback**
