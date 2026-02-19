@@ -57,7 +57,7 @@ The dashboard is designed with an executive-first approach, combining KPIs, tren
 * Explore the dashboard using slicers and interactive visuals
 
 **📌 Author**
-Adi (Aditya Naik)
+Adi (Aditya Naik) 
 Aspiring Business Analyst / Data Analyst
 📍 India
 
