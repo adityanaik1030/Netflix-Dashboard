@@ -34,7 +34,6 @@ The dashboard is designed with an executive-first approach, combining KPIs, tren
 * Created calculated measures for analytical insights
 * Applied Top N and ranking logic for categorical analysis
   
-
 **🎯 Use Case**
 * This project demonstrates how Power BI can be used for:
 * Business Intelligence reporting
