@@ -33,16 +33,7 @@ The dashboard is designed with an executive-first approach, combining KPIs, tren
 * Standardized text columns (Trim/Clean)
 * Created calculated measures for analytical insights
 * Applied Top N and ranking logic for categorical analysis
-
-📁 Repository Structure
-
-├── Dataset/
-│   └── netflix_dataset.csv
-├── Dashboard/
-│   └── Netflix_Content_Analysis.pbix
-├── Images/
-│   └── Dashboard_Screenshots.png
-└── README.md
+  
 
 **🎯 Use Case**
 * This project demonstrates how Power BI can be used for:
@@ -57,7 +48,7 @@ The dashboard is designed with an executive-first approach, combining KPIs, tren
 * Explore the dashboard using slicers and interactive visuals
 
 **📌 Author**
-Adi (Aditya Naik) 
+Aditya Naik
 Aspiring Business Analyst / Data Analyst
 📍 India
 
