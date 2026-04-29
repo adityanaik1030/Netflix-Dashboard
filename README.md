@@ -51,6 +51,5 @@ Aditya Naik
 Aspiring Business Analyst / Data Analyst
 📍 India
 
-**📣 Feedback**
 Feedback and suggestions are welcome.
 Feel free to raise an issue or connect on LinkedIn to discuss improvements or ideas.
